@@ -13,12 +13,12 @@ I'm skilled in **Power BI**,**,**SQL**,**Machine Learning**, **Deep Learning**, 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python 🐍  | SQL 💄
+- **Languages:** Python 🐍  | SQL 💄 | C++
 - **ML/DL Frameworks:** Scikit-Learn 🤖 | TensorFlow 🦰 | PyTorch 🔥
 - **Visualization:** Matplotlib 🎨 | Seaborn 🌈 | Power BI 📊 | Tableau 📈
 - **Databases:** MySQL | PostgreSQL | MongoDB
 - **Cloud:** AWS ☁️ | GCP 🚀
-- **Other:** Git & GitHub 🛠️ | Docker 🐳 | Jupyter Notebooks 📓
+- **Other:** Git & GitHub 🛠️ | Docker 🐳 | Jupyter Notebooks 📓 | Kubernates
 
 ---
 
@@ -61,9 +61,8 @@ I'm skilled in **Power BI**,**,**SQL**,**Machine Learning**, **Deep Learning**, 
 
 ## 🤝 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/love-bhardwaj-8b8571228/)
+- 📧 Email: lovebhardwaj102@gmail.com
 - 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
